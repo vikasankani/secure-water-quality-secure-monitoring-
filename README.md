@@ -4,7 +4,7 @@ Secure IoT water quality monitoring system with encryption, timestamp, and messa
 
  Overview
 
-This project implements a water quality monitoring system** using embedded hardware and IoT concepts. It measures key parameters such as Total Dissolved Solids (TDS) and temperature, processes the data, and transmits it wirelessly.
+This project implements a water quality monitoring system using embedded hardware and IoT concepts. It measures key parameters such as Total Dissolved Solids (TDS) and temperature, processes the data, and transmits it wirelessly.
 
 In addition to the original implementation, this repository presents enhanced security features**, including encryption, timestamping, and message authentication (MAC) to improve data integrity and protection against attacks.
 
